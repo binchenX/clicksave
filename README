@@ -1,0 +1,14 @@
+1. install https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+2. install http://userscripts.org/scripts/show/96771
+3. Use Firefox to open the website ,assuming who contains following html node ,among others.
+	<p>
+	A person starts to live when he can live outside himself.
+	Imagination is more important than knowledge. 
+	Sometimes one pays most for the things one gets for nothing.
+	</p>
+5. select the word _Imagination_ , as you want to learn and master it later. You will have access to following two attribtues :
+
+word: Imagination
+example : Imagination is more important than knowledge.
+
+6. Do whatever you want with those attributes. For me, I will save them to jdc.heroku.com so as to revisit them later.  
